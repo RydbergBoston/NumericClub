@@ -7,3 +7,4 @@ Journal club about numeric methods
 ## Paper Pool
 * Zaletel, Michael P., and Frank Pollmann. "Isometric tensor network states in two dimensions." Physical review letters 124.3 (2020): 037201.
 * Vanderstraeten, Laurens, et al. "Variational contractions of projected entangled-pair states." arXiv preprint arXiv:2110.12726 (2021).
+* Vanhecke, Bram, et al. "Solving frustrated Ising models using tensor networks." Physical Review Research 3.1 (2021): 013041.
