@@ -5,7 +5,6 @@
 * Liu, Jin-Guo, et al. "Variational quantum eigensolver with fewer qubits." Physical Review Research 1.2 (2019): 023025.
 
 ## Contents
-* What is an isometric tensor network?
 * The time complexity to move the canonical center is D^7.
 * It is hard to measure the long range correlation functions in an isometric tensor network.
 * An isometric tensor network can be mapped to a quantum circuit.
